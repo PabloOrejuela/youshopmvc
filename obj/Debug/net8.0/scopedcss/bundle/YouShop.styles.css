@@ -1,0 +1,53 @@
+/* _content/YouShop/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ltyd5miumz] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ltyd5miumz] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ltyd5miumz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ltyd5miumz], .nav-pills .show > .nav-link[b-ltyd5miumz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ltyd5miumz] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ltyd5miumz] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ltyd5miumz] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ltyd5miumz] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ltyd5miumz] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+#img-logo[b-ltyd5miumz]{
+  width: 100px;
+}
